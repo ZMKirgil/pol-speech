@@ -5,6 +5,7 @@ by Z.M. Kirgil
 
 The repository contains aggregated data and syntax of the paper.
 
+The aggregated data and syntax will shared upon publication of the article.
 
 ## Terms of use
 
